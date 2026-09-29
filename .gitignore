@@ -1,0 +1,14 @@
+# never commit recordings or clinical data
+data/
+*.r2a
+*.r4a
+*.h_a
+*.spa
+*.e_a
+*.o_a
+*.csv.gz
+*.xlsx
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
